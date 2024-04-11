@@ -4,8 +4,6 @@
 #include <string.h>
 #include <ctype.h>
 
-//ssssssss
-
 #define NUMTHREADS 2
 #define MEMORYSIZE 24
 #define CACHESIZE 5
